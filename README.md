@@ -6,7 +6,7 @@
 
 - С++ Developer
 - Bachelor's degree in law
-- Current Student of School 21
+- Graduated from School 42
 
 ---
 

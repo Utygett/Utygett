@@ -12,7 +12,7 @@
 
 ### :hammer_and_wrench: Languages and Tools, and Platforms :
 #### :information_desk_person: Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![lua](https://img.shields.io/badge/lua-content?style=flat)
 
 #### :hammer: Tools
 ![Qt](https://img.shields.io/badge/-Qt%205-Gre) ![Clion](https://img.shields.io/badge/-CLion-black) ![CMake](https://img.shields.io/badge/-CMake-blue) ![VSCode](https://img.shields.io/badge/-VSCode-blue) ![QtCreator](https://img.shields.io/badge/-QtCreator-brightgreen)
